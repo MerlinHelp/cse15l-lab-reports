@@ -18,8 +18,17 @@ PID: **A17907078**
 
 ## cd
 ![image](https://github.com/MerlinHelp/cse15l-lab-reports/assets/139648011/b0450a64-40c7-4210-bd28-e72ef22818bf)
+* Working dir: /home
+* It returned me to the home directory (due to having no arguments), but I was already in the home directory so it seemed like nothing happened.
+* It is not an error.
 ![image](https://github.com/MerlinHelp/cse15l-lab-reports/assets/139648011/39abfc5b-1032-4f93-b09e-ec9fbab660a4)
+* Working dir: /home
+* Because lecture1 was a valid directory in the cwd, cd lecture1 changes my directory to **/home/lecture1**
+* It is not an error.
 ![image](https://github.com/MerlinHelp/cse15l-lab-reports/assets/139648011/bf9a24ea-6b69-47f9-8909-3a3b512da9d0)
+* Working dir: /home/lecture1
+* Because Hello.java is a file, it attempted to cd into Hello.java but realized it is not a directory and thus gave that output.
+* It is an error because cd is not meant to be used with files and expected a dir.
 
 ## ls
 ![image](https://github.com/MerlinHelp/cse15l-lab-reports/assets/139648011/eb488e0d-2a0c-457d-a959-77bed10468db)
