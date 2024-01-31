@@ -1,7 +1,5 @@
 Name: **Richard Vo** 
 PID: **A17907078**
-Name: **Richard Vo** 
-PID: **A17907078**
 
 # Lab Report Week 3
 
