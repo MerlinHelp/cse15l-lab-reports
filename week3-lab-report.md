@@ -28,3 +28,9 @@ PID: **A17907078**
 ![image](https://github.com/MerlinHelp/cse15l-lab-reports/assets/139648011/3dcb8d8d-8b20-45ca-b050-39dd20ac63a1)
 * Absolute path of private key: `/home/linux/ieng6/oce/37/rivo/.ssh/authorized_keys`
 
+### Login:
+![image](https://github.com/MerlinHelp/cse15l-lab-reports/assets/139648011/bc4f9c71-f5b1-46ce-8164-64f39c85f8c8)
+
+
+## Part 3
+
