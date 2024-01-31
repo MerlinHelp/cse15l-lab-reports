@@ -14,6 +14,7 @@ PID: **A17907078**
 * The relevant arguments are the new URIs with updated `s=<string>` and `user=<string>` which update the `chat` instance field that is updated and returned everytime the correct arguments are passed. In my case, I used `s=how are you` and `user=yash`
 * The `chat` instance field added `yash: how are you\n` to the end of the string. 
 
+
 ![image](https://github.com/MerlinHelp/cse15l-lab-reports/assets/139648011/7c1094c8-902e-425a-8373-78ef23b174ad)
 * `handleRequest` method of the `Handler` class is called when I update the url. 
 * The relevant arguments are the new URIs with updated `s=<string>` and `user=<string>` which update the `chat` instance variable that is updated and returned everytime the correct arguments are passed. In my case, I used `s=Hello` and `user=jpolitz`
@@ -22,5 +23,5 @@ PID: **A17907078**
 
 ## Part 2
 ![image](https://github.com/MerlinHelp/cse15l-lab-reports/assets/139648011/3dcb8d8d-8b20-45ca-b050-39dd20ac63a1)
-* Absolute path: `/home/linux/ieng6/oce/37/rivo/.ssh/authorized_keys
+* Absolute path: `/home/linux/ieng6/oce/37/rivo/.ssh/authorized_keys`
 
