@@ -33,5 +33,5 @@ PID: **A17907078**
 
 
 ## Part 3
-&nbsp;I learned from week 3 lab about ssh and how to copy files over using scp. It was cool that you can just copy over a key to never have to login using a password again. I learned how to set git bash as my default terminal as I already have been working with VSCode but never knew you could do that. 
+<tab> I learned from week 3 lab about ssh and how to copy files over using scp. It was cool that you can just copy over a key to never have to login using a password again. I learned how to set git bash as my default terminal as I already have been working with VSCode but never knew you could do that. 
 
