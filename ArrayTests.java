@@ -21,12 +21,12 @@ public class ArrayTests {
   @Test
   public void testReversed() {
     int[] input1 = { };
-    input1 = OldArrayExamples.reversed(input1);
-    assertArrayEquals(new int[]{ }, ArrayExamples.reversed(input1));
+    int[] output1 =  ArrayExamples.reversed(input1);
+    assertArrayEquals(new int[]{ }, ArrayExamples.reversed(output1));
     
     int[] input2 = {1, 2, 3, 4};
-    input2 = OldArrayExamples.reversed(input2);
-    assertArrayEquals(new int[]{4, 3, 2, 1}, input2);
+    int[] output2 = ArrayExamples.reversed(input2);
+    assertArrayEquals(new int[]{4, 3, 2, 1}, output2);
 
     // int[] input3 = {};
     // input3 = ArrayExamples.reversed(input3);
