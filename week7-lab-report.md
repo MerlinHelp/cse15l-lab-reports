@@ -1,7 +1,7 @@
 Name: **Richard Vo** 
 PID: **A17907078**
 
-# Lab Report Week 5
+# Lab Report Week 7
 
 ## Step 4: Log into ieng6
 ![alt text](image-2.png)
