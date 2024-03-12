@@ -20,6 +20,7 @@ PID: **A17907078**
 ```
 ### File Content @BEFORE:
 * ListExamples.java
+
 ```
 import java.util.ArrayList;
 import java.util.List;
@@ -68,7 +69,9 @@ class ListExamples {
     return result;
   }
 ```
+
 * TestListExamples.java
+
 ```
 import static org.junit.Assert.*;
 import org.junit.*;
@@ -99,11 +102,14 @@ public class TestListExamples {
   }
 }
 ```
+
 * startPublic.sh
+
 ```
 javac -cp ".;.\libs\junit-4.13.2.jar;.\libs\hamcrest-2.2.jar" *.java
 java -cp ".;.\libs\junit-4.13.2.jar;.\libs\hamcrest-2.2.jar" org.junit.runner.JUnitCore TestListExamples.java
 ```
+
 ### Full command line to trigger bug:
 I ran: `bash startPublic.sh` in Git Bash while in the `CSE_15L` directory as listed earlier.
 ### Description of bug fix:
