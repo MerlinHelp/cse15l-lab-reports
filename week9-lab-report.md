@@ -20,7 +20,7 @@ PID: **A17907078**
 ```
 ### File Content @BEFORE:
 * ListExamples.java
-
+<!-- end of the list -->
 
 ```
 import java.util.ArrayList;
@@ -72,7 +72,7 @@ class ListExamples {
 ```
 
 * TestListExamples.java
-
+<!-- end of the list -->
 
 ```
 import static org.junit.Assert.*;
@@ -106,7 +106,7 @@ public class TestListExamples {
 ```
 
 * startPublic.sh
-
+<!-- end of the list -->
 
 ```
 javac -cp ".;.\libs\junit-4.13.2.jar;.\libs\hamcrest-2.2.jar" *.java
